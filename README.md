@@ -1,1 +1,0 @@
-# spartan-token-grabber-normal
